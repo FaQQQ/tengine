@@ -2,6 +2,8 @@
 
 这是编译tengine的rpm包最新版
 
+编译环境：CentOS 7.9.2009
+
 来自https://gitee.com/AiNi21/get-ssl
 
 
